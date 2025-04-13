@@ -58,5 +58,4 @@ portfolio/
 This project was created as part of my internship with CodTech Technologies to demonstrate my frontend development skills. It serves as a professional online presence for my resume and projects.
 
 ##OUTPUT
-![Image](https://github.com/user-attachments/assets/740f9862-1884-4f0a-8a73-ae218f271ac8)
-![Image](https://github.com/user-attachments/assets/1feb058b-b022-4802-b275-ef2b5d6a9aca)
+![Image](https://github.com/user-attachments/assets/e200e0e4-5537-43a0-aa7d-a03eecb9bd98)
