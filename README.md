@@ -56,3 +56,6 @@ portfolio/
     └── project2.png
 🧠 Purpose
 This project was created as part of my internship with CodTech Technologies to demonstrate my frontend development skills. It serves as a professional online presence for my resume and projects.
+
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/740f9862-1884-4f0a-8a73-ae218f271ac8)
